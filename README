@@ -1,0 +1,15 @@
+# Network Python Wrapper
+## Run python scripts on any domain computer without installing python on clients.
+
+Requirements:
+(Portable Python)[http://portablepython.com]
+
+Usage:
+Must have a mounted network share in the computers path in order to run from the start menu search or run box
+Edit `runpythonscript.bat` to point to your network shares containing a installation of portablepython. (See below for specific instructions)
+
+Instructions for Portable Python:
+ 1. Download Portable Python 2.7.x.x from http://portablepython.com
+ 2. Install to local directory (Do not install the code editors as this will go on a server they will not be needed)
+ 3. Go to the folder where you installed it and copy the `App` folder to your server and rename to `python27`
+ 4. Edit the script to match the path where you put python
