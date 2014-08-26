@@ -1,10 +1,9 @@
-# Network Python Wrapper
-
-## Run python scripts on any domain computer without installing python on clients.
+Network Python Wrapper
+Run python scripts on any domain computer without installing python on clients.
 
 Requirements:
 
-[Portable Python](http://portablepython.com)
+Portable Python - http://portablepython.com
 
 Usage:
 Must have a mounted network share in the computers path in order to run from the start menu search or run box
